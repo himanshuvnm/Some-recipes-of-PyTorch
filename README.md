@@ -1,0 +1,1 @@
+These are some of my recent tryouts on PyTorch. Here, I incorporate basics of recipes of PyTorch as Autograd function, activation function (sigmoid, hyperbolic tangent function etc.), tensors etc. I was also able to try some of advanced coding recipe as well such as Natural Language Processing and Long Short-Term Memory Model as well. MORE TO COME!
